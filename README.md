@@ -15,7 +15,6 @@ Una calcolatrice semplice implementata in Visual Basic per eseguire operazioni d
 - Moltiplicazione
 - Divisione
 - Percentuale
-- Radice quadrata
 - Parentesi tonde
 
 ## Tecnologie Utilizzate
@@ -46,7 +45,6 @@ A simple calculator implemented in Visual Basic to perform basic operations like
 - Multiplication
 - Division
 - Percentage
-- Square root
 - Parentheses
 
 ## Technologies Used
