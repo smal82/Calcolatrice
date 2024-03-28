@@ -24,7 +24,7 @@ Una calcolatrice semplice implementata in Visual Basic per eseguire operazioni d
 ![Screenshot della Calcolatrice](screenshot.png)
 
 ## Licenza
-Questo progetto è sotto licenza [MIT](LICENSE).
+Questo progetto è sotto licenza [MIT](https://github.com/smal82/Calcolatrice/blob/master/LICENSE.txt).
 
 ---
 
