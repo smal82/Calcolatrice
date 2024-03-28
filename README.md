@@ -54,4 +54,4 @@ A simple calculator implemented in Visual Basic to perform basic operations like
 ![Calculator Screenshot](screenshot.png)
 
 ## License
-This project is licensed under the [MIT License](LICENSE).
+This project is licensed under the [MIT License](https://github.com/smal82/Calcolatrice/blob/master/LICENSE.txt).
